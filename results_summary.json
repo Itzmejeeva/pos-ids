@@ -1,1 +1,6 @@
-{"Decision Tree (Baseline)":{"Accuracy":0.7721788502,"Precision":0.9166396016,"Recall":0.659783371,"F1-score":0.7672859085,"ROC-AUC":0.7511718686},"Random Forest (Baseline)":{"Accuracy":0.7560326473,"Precision":0.9662978507,"Recall":0.5920673264,"F1-score":0.7342481639,"ROC-AUC":0.9630020039},"XGBoost (Baseline)":{"Accuracy":0.7953779276,"Precision":0.96875,"Recall":0.6618873217,"F1-score":0.786445072,"ROC-AUC":0.9651820532},"Random Forest (PSO-Optimized)":{"Accuracy":0.7924059617,"Precision":0.9692644181,"Recall":0.6561209382,"F1-score":0.782527881,"ROC-AUC":0.9628885883}}
+streamlit==1.59.1
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+xgboost==3.3.0
+plotly==6.9.0
